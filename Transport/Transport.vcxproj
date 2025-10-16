@@ -127,7 +127,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BoatFactory.cpp" />
+    <ClCompile Include="BoatProduct.cpp" />
+    <ClCompile Include="Factory.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Product.cpp" />
     <ClCompile Include="Transport.cpp" />
+    <ClCompile Include="TruckFactory.cpp" />
+    <ClCompile Include="TruckProduct.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BoatFactory.h" />
+    <ClInclude Include="BoatProduct.h" />
+    <ClInclude Include="Factory.h" />
+    <ClInclude Include="Product.h" />
+    <ClInclude Include="TruckFactory.h" />
+    <ClInclude Include="TruckProduct.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

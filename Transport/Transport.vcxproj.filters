@@ -13,10 +13,57 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Fichiers sources\Header">
+      <UniqueIdentifier>{4e3f822c-0c1b-4e98-8666-40332f3148db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Class">
+      <UniqueIdentifier>{182ad382-c8fe-485b-8ca7-3bc55dafee0a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Transport.cpp">
-      <Filter>Fichiers sources</Filter>
+    <ClCompile Include="BoatFactory.cpp">
+      <Filter>Fichiers sources\Class</Filter>
     </ClCompile>
+    <ClCompile Include="BoatProduct.cpp">
+      <Filter>Fichiers sources\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Factory.cpp">
+      <Filter>Fichiers sources\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Fichiers sources\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Product.cpp">
+      <Filter>Fichiers sources\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="TruckFactory.cpp">
+      <Filter>Fichiers sources\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="TruckProduct.cpp">
+      <Filter>Fichiers sources\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Transport.cpp">
+      <Filter>Fichiers sources\Class</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Factory.h">
+      <Filter>Fichiers sources\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="BoatFactory.h">
+      <Filter>Fichiers sources\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="TruckFactory.h">
+      <Filter>Fichiers sources\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Product.h">
+      <Filter>Fichiers sources\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="BoatProduct.h">
+      <Filter>Fichiers sources\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="TruckProduct.h">
+      <Filter>Fichiers sources\Header</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
