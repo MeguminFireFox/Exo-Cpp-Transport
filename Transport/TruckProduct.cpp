@@ -5,7 +5,7 @@ using namespace std;
 
 class TruckProduct : Product {
 public:
-	void DoStuff() {
+	void DoStuff() override {
 		cout << "Vrroum vrroum le kamion";
 	}
 };

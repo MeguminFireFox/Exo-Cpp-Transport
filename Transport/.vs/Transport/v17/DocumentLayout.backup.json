@@ -7,20 +7,32 @@
       "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:Transport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\TruckProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:TruckProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:BoatProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatProduct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:BoatProduct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\TruckProduct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:TruckProduct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatProduct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:BoatProduct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:BoatProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:BoatFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\TruckProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:TruckProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,18 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:BoatFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|solutionrelative:Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B067B176-36F2-4CDA-9FB0-D330D2445429}|Transport.vcxproj|C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Factory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -66,21 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Transport.cpp",
-              "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Transport.cpp",
-              "RelativeDocumentMoniker": "Transport.cpp",
-              "ToolTip": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Transport.cpp",
-              "RelativeToolTip": "Transport.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-16T12:15:31.729Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
@@ -91,20 +78,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Transport.cpp",
+              "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Transport.cpp",
+              "RelativeDocumentMoniker": "Transport.cpp",
+              "ToolTip": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Transport.cpp",
+              "RelativeToolTip": "Transport.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T12:15:31.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TruckProduct.h",
               "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\TruckProduct.h",
               "RelativeDocumentMoniker": "TruckProduct.h",
               "ToolTip": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\TruckProduct.h",
               "RelativeToolTip": "TruckProduct.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-16T11:55:05.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "BoatProduct.h",
               "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatProduct.h",
               "RelativeDocumentMoniker": "BoatProduct.h",
@@ -117,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Product.h",
               "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Product.h",
               "RelativeDocumentMoniker": "Product.h",
@@ -138,12 +138,11 @@
               "RelativeToolTip": "TruckFactory.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-16T11:54:34.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T11:54:34.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "BoatFactory.h",
               "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatFactory.h",
               "RelativeDocumentMoniker": "BoatFactory.h",
@@ -151,12 +150,11 @@
               "RelativeToolTip": "BoatFactory.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-16T11:54:17.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T11:54:17.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "TruckProduct.cpp",
               "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\TruckProduct.cpp",
               "RelativeDocumentMoniker": "TruckProduct.cpp",
@@ -164,12 +162,11 @@
               "RelativeToolTip": "TruckProduct.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-16T11:53:20.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T11:53:20.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BoatProduct.cpp",
               "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatProduct.cpp",
               "RelativeDocumentMoniker": "BoatProduct.cpp",
@@ -182,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Product.cpp",
               "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Product.cpp",
               "RelativeDocumentMoniker": "Product.cpp",
@@ -190,8 +187,7 @@
               "RelativeToolTip": "Product.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-16T11:52:59.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T11:52:59.299Z"
             },
             {
               "$type": "Document",
@@ -203,12 +199,11 @@
               "RelativeToolTip": "TruckFactory.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-16T11:52:47.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T11:52:47.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "BoatFactory.cpp",
               "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\BoatFactory.cpp",
               "RelativeDocumentMoniker": "BoatFactory.cpp",
@@ -229,8 +224,7 @@
               "RelativeToolTip": "Factory.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-16T11:52:20.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T11:52:20.221Z"
             },
             {
               "$type": "Document",
@@ -242,12 +236,11 @@
               "RelativeToolTip": "Factory.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-16T11:51:24.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T11:51:24.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\eljou\\Documents\\ProjetsCPP\\Exo-Cpp-Transport\\Transport\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
