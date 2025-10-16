@@ -1,6 +1,12 @@
 #include "Factory.h"
 #pragma once
 
-class TruckFactory : Factory 
+#include <iostream>
+#include "TruckFactory.h"
+#include "TruckProduct.cpp"
+
+class TruckFactory : public Factory
 {
+public:
+	Product* CreateProduct() override;
 };

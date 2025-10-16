@@ -1,5 +1,7 @@
 #pragma once
 #include "Product.h"
 
-class TruckProduct : Product {
+class TruckProduct : public Product {
+	// Hérité via Product
+	void DoStuff() override;
 };

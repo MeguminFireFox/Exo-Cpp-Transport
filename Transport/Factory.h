@@ -1,7 +1,8 @@
 #pragma once
+#include "Product.h"
 
 class Factory
 {
 public:
-	virtual void CreateProduct() = 0;
+	virtual Product* CreateProduct() = 0;
 };

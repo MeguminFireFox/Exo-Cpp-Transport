@@ -2,10 +2,7 @@
 #include "TruckFactory.h"
 #include "TruckProduct.h"
 
-class TruckFactory : Factory
+Product* TruckFactory::CreateProduct()
 {
-public:
-	void CreateProduct() override
-	{
-	};
-};
+	return new TruckProduct();
+}

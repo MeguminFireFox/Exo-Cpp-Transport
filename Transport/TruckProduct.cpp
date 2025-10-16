@@ -3,9 +3,9 @@
 
 using namespace std;
 
-class TruckProduct : Product {
-public:
-	void DoStuff() {
-		cout << "Vrroum vrroum le kamion";
-	}
-};
+
+
+void TruckProduct::DoStuff()
+{
+	cout << "Vrroum vrroum le kamion";
+}
