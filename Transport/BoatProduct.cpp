@@ -3,9 +3,9 @@
 
 using namespace std;
 
-class BoatProduct : Product {
+class BoatProduct : public Product {
 public:
-	void DoStuff() {
-		cout << "Pouinn pouinn le bato";
+	void DoStuff() override {
+		cout << "Pouin pouin le bato";
 	}
 };
